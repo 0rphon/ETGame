@@ -1,3 +1,4 @@
 # ETGame
+written years ago. uploaded as part of me uploading all my old projects\
 Enter the Gungeon memory hack i wrote a long time ago\
-I'm uploading all my old projects. No idea if it still works.
+No idea if it still works.
